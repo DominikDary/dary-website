@@ -1,0 +1,100 @@
+baseURL = "http://dary.de/"
+languageCode = "en-us"
+title = "Dominik Dary's Blog"
+theme = "octopress"
+sectionPagesMenu = "main"
+googleAnalytics = "UA-1537443-6"
+
+
+[permalinks]
+# Configures post URLs
+post = "/blog/:year-:month-:day-:title/"
+
+# Number of blog posts in each pagination page
+paginate = 6
+
+# Make tags and categories work
+# As of Hugo v0.33 these are not needed anymore
+# [indexes]
+#   tag = "tags"
+#   category = "categories"
+
+[[menu.main]]
+  name = "About Dominik"
+  weight = -10
+  url = "/about-dominik/"
+
+[[menu.main]]
+  name = "Speaking"
+  weight = -8
+  url = "/speaking/"
+
+[[menu.main]]
+  name = "Disclaimer"
+  weight = -6
+  url = "/disclaimer/"
+
+[params]
+
+  # If false, all of blog post will appear on front page (and in pagination)
+  truncate = true
+
+  # Author's name (appears in meta tags and under posts)
+  author = "Dominik Dary"
+
+  # This text appears in site header under website title
+  #subtitle = ""
+
+  # Search engine URL
+  searchEngineURL = "https://www.google.com/search"
+
+  # Text of the "Continue Reading" label. &rarr; == right arrow, but it gets messed up in the string so it was added to index.html manually
+  continueReadingText = "Would you like to know more?"
+
+  # Google analytics code - remove if you do not have/want Google Analytics - needs JavaScript
+  googleAnalytics = "UA-1537443-6"
+
+  # Optional piwik tracking
+  #[params.analytics.piwik]
+  #  URL = "https://stats.example.com"
+  #  ID = "42"
+
+  # Switch to true to enable RSS icon link
+  rss = true
+
+  # Set to true to use a text label for RSS instead of an icon
+  # This is overwritten by the "rss" setting
+  textrss = false
+
+  # Website's default description
+  defaultDescription = "Dominik Dary's personal website"
+
+  # Populate this with your own search keywords - these will appear in meta tags
+  # defaultKeywords = ["keyword1" , "keyword2" , "keyword3" , "keyword4"]
+
+  # Set to true to hide ReadingTime on posts
+  disableReadingTime = false
+
+  # Set to true to disable downloading of remote Google fonts
+  disableGoogleFonts = false
+
+  # Remove or Set to false to use local fonts
+  remoteFonts = false
+
+  navigationNewWindow = true
+
+  sidebarHeader = "About me"
+
+  sidebarText = """![Image Dominik Dary](/dominikdary.jpg)
+  Engineering Manager @Adobe & creator of [selendroid.io](http://selendroid.io) and [S3Mock](https://github.com/adobe/S3Mock).
+  This is my private blog.
+  """
+
+  sidebarMenuEnabled = false
+  sidebarMenuHeader = "Collections"
+
+  tableOfContents = true
+
+  twitter = "https://twitter.com/dominikdary"
+  github = "https://github.com/dominikdary/"
+  linkedin = "https://www.linkedin.com/in/dominikdary"
