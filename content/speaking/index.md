@@ -4,6 +4,7 @@ title: "Speaking"
 url: /speaking/
 type: page
 ---
+
 I enjoy speaking at conferences or meetups, and to anyone who’s interested in cloud platforms engineering management, selendroid, quality engineering or mobile testing.
 
 **Upcoming conferences**:
