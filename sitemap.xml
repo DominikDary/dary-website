@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://dary.de/about-dominik/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/disclaimer/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/speaking/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2014/10/mobiletestingbook/</loc>
+    <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2014/10/gtac-2014/</loc>
+    <lastmod>2014-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2013/11/mobile-webdriver-selendroid/</loc>
+    <lastmod>2013-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2012/10/gdg-devfest-in-zurich/</loc>
+    <lastmod>2012-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2012/07/howto-inspect-android-activities/</loc>
+    <lastmod>2012-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2012/07/speed-up-the-development-of-calabash-android-tests/</loc>
+    <lastmod>2012-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2012/04/calabash-ios/</loc>
+    <lastmod>2012-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2012/04/calabash-android/</loc>
+    <lastmod>2012-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2012/03/test-automation-10-sometimes-painful-lessons-learned/</loc>
+    <lastmod>2012-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2012/03/greenhouse-application/</loc>
+    <lastmod>2012-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2012/03/open-source-mobile-test-automation-frameworks/</loc>
+    <lastmod>2012-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/2012/03/camholder-0-2-1/</loc>
+    <lastmod>2012-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/android/</loc>
+    <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/calabash-android/</loc>
+    <lastmod>2012-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/calabash-driver/</loc>
+    <lastmod>2012-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/</loc>
+    <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/conference/</loc>
+    <lastmod>2012-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/framework-overview/</loc>
+    <lastmod>2012-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/google-test-automation-conference/</loc>
+    <lastmod>2014-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/ios/</loc>
+    <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/lessons-learned/</loc>
+    <lastmod>2012-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/mobile-test-automation/</loc>
+    <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/mobile-testing/</loc>
+    <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/mobile-webdriver/</loc>
+    <lastmod>2014-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/open-source/</loc>
+    <lastmod>2012-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/posts/</loc>
+    <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/selendroid/</loc>
+    <lastmod>2013-11-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/spring-greenhouse/</loc>
+    <lastmod>2012-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/test-automation/</loc>
+    <lastmod>2012-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dary.de/categories/w3c/</loc>
+    <lastmod>2013-11-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

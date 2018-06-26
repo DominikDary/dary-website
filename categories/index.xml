@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Dominik Dary&#39;s Blog</title>
+    <link>http://dary.de/categories/</link>
+    <description>Recent content in Categories on Dominik Dary&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dary.de/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android</title>
+      <link>http://dary.de/categories/android/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calabash Android</title>
+      <link>http://dary.de/categories/calabash-android/</link>
+      <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/calabash-android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calabash Driver</title>
+      <link>http://dary.de/categories/calabash-driver/</link>
+      <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/calabash-driver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>http://dary.de/categories/conference/</link>
+      <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framework Overview</title>
+      <link>http://dary.de/categories/framework-overview/</link>
+      <pubDate>Sun, 11 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/framework-overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Test Automation Conference</title>
+      <link>http://dary.de/categories/google-test-automation-conference/</link>
+      <pubDate>Tue, 07 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/google-test-automation-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ios</title>
+      <link>http://dary.de/categories/ios/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons Learned</title>
+      <link>http://dary.de/categories/lessons-learned/</link>
+      <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/lessons-learned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Test Automation</title>
+      <link>http://dary.de/categories/mobile-test-automation/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/mobile-test-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Testing</title>
+      <link>http://dary.de/categories/mobile-testing/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/mobile-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Webdriver</title>
+      <link>http://dary.de/categories/mobile-webdriver/</link>
+      <pubDate>Tue, 07 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/mobile-webdriver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>http://dary.de/categories/open-source/</link>
+      <pubDate>Sun, 11 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selendroid</title>
+      <link>http://dary.de/categories/selendroid/</link>
+      <pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/selendroid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Greenhouse</title>
+      <link>http://dary.de/categories/spring-greenhouse/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/spring-greenhouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Automation</title>
+      <link>http://dary.de/categories/test-automation/</link>
+      <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/test-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W3c</title>
+      <link>http://dary.de/categories/w3c/</link>
+      <pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/categories/w3c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

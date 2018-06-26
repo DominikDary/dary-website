@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ios on Dominik Dary&#39;s Blog</title>
+    <link>http://dary.de/categories/ios/</link>
+    <description>Recent content in Ios on Dominik Dary&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dary.de/categories/ios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mobile App Testing Book Recommendation</title>
+      <link>http://dary.de/posts/2014/10/mobiletestingbook/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2014/10/mobiletestingbook/</guid>
+      <description>Yesterday Daniel Knott announced that he has published his book Hands-On Mobile App Testing.
+Daniel writes on his book page: &amp;ldquo;This book is aimed at anyone interested in mobile apps and mobile testing, ranging from junior to expert mobile testers who are already involved in mobile development teams. This book is also ideal for software test managers who need to manage mobile testing teams or to select a mobile test strategy.</description>
+    </item>
+    
+  </channel>
+</rss>

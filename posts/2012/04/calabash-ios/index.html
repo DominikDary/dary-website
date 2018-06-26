@@ -1,0 +1,71 @@
+<div id="main">
+  <div id="content">
+    <div>
+      <article class="hentry" role="article">
+
+        
+        
+
+<header>
+    <p class="meta">Apr 15, 2012 - 
+        2 minute read 
+
+        
+            - <a class="label" href="http://dary.de/categories/mobile-test-automation/">mobile test automation </a>
+        
+    </p>
+    <h1 class="entry-title">
+         Calabash-iOS 
+    </h1>
+</header>
+
+
+        <div class="entry-content">
+          
+          
+          
+          
+          <p>In today&rsquo;s post I&rsquo;m describing about how to setup <a href="http://blog.lesspainful.com/2012/03/07/Calabash-iOS/">calabash-ios</a> to automate your functional end-to-end test for iOS applications. In <a href="http://www.dary.de/posts/2012/03/greenhouse-application/">my previous post I</a> described about how to setup the Greenhouse application.If you are interested in how to automate an Android app, <a href="http://www.dary.de/posts/2012/04/calabash-android/">checkout this blogpost</a>.</p>
+
+<p>For using <a href="https://github.com/calabash/calabash-ios">Calabash-ios</a>, you need to have access to the app source code. The XCode project must modified, which means in detail, that a http server is added through linking with the the <em>calabash.framework</em>. The Calabash client library is sending HTTP requests to this server which is executing those commands.</p>
+
+<p><img src="/calabash-ios.png" alt="Calabash-ios Architecture" /></p>
+
+<p>To get startet <a href="https://github.com/calabash/calabash-ios/blob/master/README.md">github</a> contains a very detailed description, about howto setup calabash-ios in general.</p>
+
+<p>Currently there are two ways about how the setup can be done:</p>
+
+<ul>
+<li>Automated: using the command <em>calabash-ios setup</em></li>
+<li>Manual: detailed steps are described on the wiki</li>
+</ul>
+
+<p>I made good experience using the automated setup, but if you identify weird things in your app during test execution, I recommend to do a manual setup. For the Greenhouse iOS app I have used the manual setup, because I have seen some weird behavior.</p>
+
+<p>In the first screencast I&rsquo;m showing you, about how to do the automated calabash setup with the provided script:
+<iframe src="http://player.vimeo.com/video/40395001" width="500" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+
+<p>In the second screencast, I describe all the detailed steps that needs to be done for manual the setup:
+<iframe src="http://player.vimeo.com/video/40402428" width="500" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+
+<p>The the new target has been added to the app, you can verify in the logs that after starting the app the http server on the port 37265 is bound to. The default feature folder can be created with running the command <em>calabash-ios gen</em>, that is containing the feature file and all the other Ruby related Cucumber classes.</p>
+
+<p>The third screencast is showing the actual test execution:
+<iframe src="http://player.vimeo.com/video/40403372" width="500" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+
+<p>Karl Krukow, the creator of Calabash-ios, has given at the <a href="http://skillsmatter.com/podcast/home/calabash-an-open-source-automated-testing-technology-for-ios-and-android">CukeUp! 2012</a> a pretty nice presentation and live demo about advanced features (like gesture (touch) recording and how these events can be played back).</p>
+
+        </div>
+        
+
+<footer>
+  <p class="meta">
+    
+    </span>
+  </p>
+</footer>
+
+      </article>
+    </div>
+  </div>
+</div>

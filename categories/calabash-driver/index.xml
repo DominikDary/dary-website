@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calabash Driver on Dominik Dary&#39;s Blog</title>
+    <link>http://dary.de/categories/calabash-driver/</link>
+    <description>Recent content in Calabash Driver on Dominik Dary&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Oct 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dary.de/categories/calabash-driver/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GDG Devfest in Zurich</title>
+      <link>http://dary.de/posts/2012/10/gdg-devfest-in-zurich/</link>
+      <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/10/gdg-devfest-in-zurich/</guid>
+      <description>Yesterday and today I attended the Google Developer Group (GDG) DevFest in Zürich and I really enjoyed it! I have seen good presentations, met really nice people and I had great discussions. This afternoon I did a presentation about how to automate native Android apps using Calabash-Driver and how to leverage an existing Selenium Grid2 architecture to allow scaling and parallel testing.
+Here you find my slides of today&amp;rsquo;s presentation:</description>
+    </item>
+    
+  </channel>
+</rss>

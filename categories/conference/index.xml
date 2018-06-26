@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Dominik Dary&#39;s Blog</title>
+    <link>http://dary.de/categories/conference/</link>
+    <description>Recent content in Conference on Dominik Dary&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Mar 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dary.de/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Automation - 10 (sometimes painful) Lessons learned</title>
+      <link>http://dary.de/posts/2012/03/test-automation-10-sometimes-painful-lessons-learned/</link>
+      <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/03/test-automation-10-sometimes-painful-lessons-learned/</guid>
+      <description>Last Wednesday Michael Palotas and I have given together a presentation at the Swiss Testing Day 2012 in Zürich about the 10 (sometimes painful) Lessons we have learned in test automation and the presentation is about:
+eBay&amp;rsquo;s European quality engineering team has broad experience implementing end-to-end test automation in different software development environments (agile, waterfall, co located , outsourced, distributed). This presentation illustrates the key lessons learned from a technical and business perspective</description>
+    </item>
+    
+  </channel>
+</rss>

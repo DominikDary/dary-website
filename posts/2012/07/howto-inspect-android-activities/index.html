@@ -1,0 +1,55 @@
+<div id="main">
+  <div id="content">
+    <div>
+      <article class="hentry" role="article">
+
+        
+        
+
+<header>
+    <p class="meta">Jul 15, 2012 - 
+        1 minute read 
+
+        
+            - <a class="label" href="http://dary.de/categories/mobile-test-automation/">mobile test automation </a><a class="label" href="http://dary.de/categories/calabash-android/">calabash-android </a>
+        
+    </p>
+    <h1 class="entry-title">
+         Howto inspect Android Activities 
+    </h1>
+</header>
+
+
+        <div class="entry-content">
+          
+          
+          
+          
+          <p>For writing good automated mobile end-to-end tests I personally prefer to use e.g. the IDs of the elements. For doing this, you can have a look at the application&rsquo;s source code and analyze the corresponding <em>layout.xml</em> file.</p>
+
+<p>But sometimes, if e.g. on the screen are dynamic lists like search results displayed, it is quite helpful to inspect the dialog on the mobile device that is currently displayed.
+The Android platform has a tool called hierarchy viewer - which is working quite well. The full UI element tree is displayed and the properties of each element can be displayed. The drawback of this tool is, that is quite slow and on some machines with less than 4GB RAM it is unusable.</p>
+
+<p>For Calabash-Android I implemented a command that inspects the current dialog and returns about each UI view component the corresponding class name, the Android ID (name, defined in the layout.xml file) and for some elements the text:</p>
+
+<script src="//gist.github.com/dominikdary/3113570.js"></script>
+
+<p>In combination using the interactive Ruby shell, which I have described in my <a href="http://dary.de/posts/2012/07/speed-up-the-development-of-calabash-android-tests/">last blog post</a> , this is quite powerful and is speeding up the test development a lot. The command for the shell is:</p>
+
+<pre><code>performAction('inspect_current_dialog')
+</code></pre>
+
+        </div>
+        
+
+<footer>
+  <p class="meta">
+    
+    </span>
+  </p>
+</footer>
+
+      </article>
+    </div>
+  </div>
+</div>

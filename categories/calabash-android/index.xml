@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calabash Android on Dominik Dary&#39;s Blog</title>
+    <link>http://dary.de/categories/calabash-android/</link>
+    <description>Recent content in Calabash Android on Dominik Dary&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Oct 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dary.de/categories/calabash-android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GDG Devfest in Zurich</title>
+      <link>http://dary.de/posts/2012/10/gdg-devfest-in-zurich/</link>
+      <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/10/gdg-devfest-in-zurich/</guid>
+      <description>Yesterday and today I attended the Google Developer Group (GDG) DevFest in Zürich and I really enjoyed it! I have seen good presentations, met really nice people and I had great discussions. This afternoon I did a presentation about how to automate native Android apps using Calabash-Driver and how to leverage an existing Selenium Grid2 architecture to allow scaling and parallel testing.
+Here you find my slides of today&amp;rsquo;s presentation:</description>
+    </item>
+    
+    <item>
+      <title>Howto inspect Android Activities</title>
+      <link>http://dary.de/posts/2012/07/howto-inspect-android-activities/</link>
+      <pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/07/howto-inspect-android-activities/</guid>
+      <description>For writing good automated mobile end-to-end tests I personally prefer to use e.g. the IDs of the elements. For doing this, you can have a look at the application&amp;rsquo;s source code and analyze the corresponding layout.xml file.
+But sometimes, if e.g. on the screen are dynamic lists like search results displayed, it is quite helpful to inspect the dialog on the mobile device that is currently displayed. The Android platform has a tool called hierarchy viewer - which is working quite well.</description>
+    </item>
+    
+    <item>
+      <title>Speed up the development of Calabash-Android tests</title>
+      <link>http://dary.de/posts/2012/07/speed-up-the-development-of-calabash-android-tests/</link>
+      <pubDate>Sat, 14 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/07/speed-up-the-development-of-calabash-android-tests/</guid>
+      <description>In one of my previous blog posts I described about how to use Calabash-Android in general. In today&amp;rsquo;s post I&amp;rsquo;m describing about how to speed up the development of automated mobile tests using Calabash-Android using and mostly configuring the interactive Ruby shell (IRB).
+IRB is a shell allows the execution of Ruby commands with immediate response, experimenting in real-time. This is pretty useful if you are about to automate an Android application screen that is part of an flow and you are in the process of finding for the UI elements the right commands e.</description>
+    </item>
+    
+    <item>
+      <title>Calabash-Android</title>
+      <link>http://dary.de/posts/2012/04/calabash-android/</link>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/04/calabash-android/</guid>
+      <description>In my previous post I blogged about open source frameworks for mobile end-to-end testing and in the other past post I described about how to setup the Greenhouse sample app environment.
+In this post I would like to describe how to test an Android app with Calabash-Android, which was open sourced in the beginning of March.
+The basic architecture of Calabash is described in this figure, which I have taken from the Less Painful homepage:</description>
+    </item>
+    
+  </channel>
+</rss>

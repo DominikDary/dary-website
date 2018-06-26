@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring Greenhouse on Dominik Dary&#39;s Blog</title>
+    <link>http://dary.de/categories/spring-greenhouse/</link>
+    <description>Recent content in Spring Greenhouse on Dominik Dary&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Mar 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dary.de/categories/spring-greenhouse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Greenhouse Application</title>
+      <link>http://dary.de/posts/2012/03/greenhouse-application/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/03/greenhouse-application/</guid>
+      <description>In my past blog entry I listed different Open Source Frameworks that can be used for mobile testing on Android and iOS. For showcasing the different frameworks, I will use the Open Source project Greenhouse that SpringSource has created some while ago to:
+Serve as a open-source, public-facing reference and driver for Spring technology, including Spring MVC, Security, Integration, and the new Spring Social and Mobile projects.
+For making the demonstration easier, I have forked the corresponding projects on Github and in the following lines you find all the details you need to follow to setup everything:</description>
+    </item>
+    
+  </channel>
+</rss>

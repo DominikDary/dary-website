@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Webdriver on Dominik Dary&#39;s Blog</title>
+    <link>http://dary.de/categories/mobile-webdriver/</link>
+    <description>Recent content in Mobile Webdriver on Dominik Dary&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dary.de/categories/mobile-webdriver/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GTAC 2014</title>
+      <link>http://dary.de/posts/2014/10/gtac-2014/</link>
+      <pubDate>Tue, 07 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2014/10/gtac-2014/</guid>
+      <description>I&amp;rsquo;m happy to announce that I will give a lightning talk at Google&amp;rsquo;s Test Automation Conference (GTAC) about selendroid. The schedule of this year&amp;rsquo;s conference you find here
+In the mean while I have written together with Michael Palotas an article about Mobile Test Automation with Selendroid in the Methods and Tools Magazine.</description>
+    </item>
+    
+    <item>
+      <title>Mobile webdriver Selendroid</title>
+      <link>http://dary.de/posts/2013/11/mobile-webdriver-selendroid/</link>
+      <pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2013/11/mobile-webdriver-selendroid/</guid>
+      <description>In this blog post I would like to write again about mobile test automation. In the last months I spent a lot of my time working on a new test automation framework: Selendroid - a mobile WebDriver implementation for native and hybrid Android apps.
+Selendroid is an implementation of the Selenium WebDriver JSON Wire protocol, which is about to become a W3C Standard.
+Main features of selendroid are:  Full compatibility with the JSON Wire Protocol.</description>
+    </item>
+    
+  </channel>
+</rss>

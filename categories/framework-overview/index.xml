@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Framework Overview on Dominik Dary&#39;s Blog</title>
+    <link>http://dary.de/categories/framework-overview/</link>
+    <description>Recent content in Framework Overview on Dominik Dary&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Mar 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dary.de/categories/framework-overview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Overview about Open Source mobile test automation Frameworks</title>
+      <link>http://dary.de/posts/2012/03/open-source-mobile-test-automation-frameworks/</link>
+      <pubDate>Sun, 11 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/03/open-source-mobile-test-automation-frameworks/</guid>
+      <description>The mobile market is changing. In the past a lot of mobile solutions has been created and a lot of them has been used to gather experience in the mobile field. Now more and more companies like car manufacturers or banks (PayPal, Barclays)are creating mobile solutions that really have an impact on their main business. If you look e.g. at eBay&amp;rsquo;s mobile facts, the numbers are just impressing:
+ 2011 there was a transation volumne of 5 billion USD worldwide 1 million Listings every weeks are done via mobile 176 Number of dollars spent every second through mobile purchases  From a test automation perspective, I&amp;rsquo;m looking into this area from a functional end-to-end testing perspective, there are different open source tools available to write automated tests for iOS and Android:</description>
+    </item>
+    
+  </channel>
+</rss>

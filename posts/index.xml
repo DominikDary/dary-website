@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dominik Dary&#39;s Blog</title>
+    <link>http://dary.de/posts/</link>
+    <description>Recent content in Posts on Dominik Dary&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dary.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mobile App Testing Book Recommendation</title>
+      <link>http://dary.de/posts/2014/10/mobiletestingbook/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2014/10/mobiletestingbook/</guid>
+      <description>Yesterday Daniel Knott announced that he has published his book Hands-On Mobile App Testing.
+Daniel writes on his book page: &amp;ldquo;This book is aimed at anyone interested in mobile apps and mobile testing, ranging from junior to expert mobile testers who are already involved in mobile development teams. This book is also ideal for software test managers who need to manage mobile testing teams or to select a mobile test strategy.</description>
+    </item>
+    
+    <item>
+      <title>GTAC 2014</title>
+      <link>http://dary.de/posts/2014/10/gtac-2014/</link>
+      <pubDate>Tue, 07 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2014/10/gtac-2014/</guid>
+      <description>I&amp;rsquo;m happy to announce that I will give a lightning talk at Google&amp;rsquo;s Test Automation Conference (GTAC) about selendroid. The schedule of this year&amp;rsquo;s conference you find here
+In the mean while I have written together with Michael Palotas an article about Mobile Test Automation with Selendroid in the Methods and Tools Magazine.</description>
+    </item>
+    
+    <item>
+      <title>Mobile webdriver Selendroid</title>
+      <link>http://dary.de/posts/2013/11/mobile-webdriver-selendroid/</link>
+      <pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2013/11/mobile-webdriver-selendroid/</guid>
+      <description>In this blog post I would like to write again about mobile test automation. In the last months I spent a lot of my time working on a new test automation framework: Selendroid - a mobile WebDriver implementation for native and hybrid Android apps.
+Selendroid is an implementation of the Selenium WebDriver JSON Wire protocol, which is about to become a W3C Standard.
+Main features of selendroid are:  Full compatibility with the JSON Wire Protocol.</description>
+    </item>
+    
+    <item>
+      <title>GDG Devfest in Zurich</title>
+      <link>http://dary.de/posts/2012/10/gdg-devfest-in-zurich/</link>
+      <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/10/gdg-devfest-in-zurich/</guid>
+      <description>Yesterday and today I attended the Google Developer Group (GDG) DevFest in Zürich and I really enjoyed it! I have seen good presentations, met really nice people and I had great discussions. This afternoon I did a presentation about how to automate native Android apps using Calabash-Driver and how to leverage an existing Selenium Grid2 architecture to allow scaling and parallel testing.
+Here you find my slides of today&amp;rsquo;s presentation:</description>
+    </item>
+    
+    <item>
+      <title>Howto inspect Android Activities</title>
+      <link>http://dary.de/posts/2012/07/howto-inspect-android-activities/</link>
+      <pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/07/howto-inspect-android-activities/</guid>
+      <description>For writing good automated mobile end-to-end tests I personally prefer to use e.g. the IDs of the elements. For doing this, you can have a look at the application&amp;rsquo;s source code and analyze the corresponding layout.xml file.
+But sometimes, if e.g. on the screen are dynamic lists like search results displayed, it is quite helpful to inspect the dialog on the mobile device that is currently displayed. The Android platform has a tool called hierarchy viewer - which is working quite well.</description>
+    </item>
+    
+    <item>
+      <title>Speed up the development of Calabash-Android tests</title>
+      <link>http://dary.de/posts/2012/07/speed-up-the-development-of-calabash-android-tests/</link>
+      <pubDate>Sat, 14 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/07/speed-up-the-development-of-calabash-android-tests/</guid>
+      <description>In one of my previous blog posts I described about how to use Calabash-Android in general. In today&amp;rsquo;s post I&amp;rsquo;m describing about how to speed up the development of automated mobile tests using Calabash-Android using and mostly configuring the interactive Ruby shell (IRB).
+IRB is a shell allows the execution of Ruby commands with immediate response, experimenting in real-time. This is pretty useful if you are about to automate an Android application screen that is part of an flow and you are in the process of finding for the UI elements the right commands e.</description>
+    </item>
+    
+    <item>
+      <title>Calabash-iOS</title>
+      <link>http://dary.de/posts/2012/04/calabash-ios/</link>
+      <pubDate>Sun, 15 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/04/calabash-ios/</guid>
+      <description>In today&amp;rsquo;s post I&amp;rsquo;m describing about how to setup calabash-ios to automate your functional end-to-end test for iOS applications. In my previous post I described about how to setup the Greenhouse application.If you are interested in how to automate an Android app, checkout this blogpost.
+For using Calabash-ios, you need to have access to the app source code. The XCode project must modified, which means in detail, that a http server is added through linking with the the calabash.</description>
+    </item>
+    
+    <item>
+      <title>Calabash-Android</title>
+      <link>http://dary.de/posts/2012/04/calabash-android/</link>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/04/calabash-android/</guid>
+      <description>In my previous post I blogged about open source frameworks for mobile end-to-end testing and in the other past post I described about how to setup the Greenhouse sample app environment.
+In this post I would like to describe how to test an Android app with Calabash-Android, which was open sourced in the beginning of March.
+The basic architecture of Calabash is described in this figure, which I have taken from the Less Painful homepage:</description>
+    </item>
+    
+    <item>
+      <title>Test Automation - 10 (sometimes painful) Lessons learned</title>
+      <link>http://dary.de/posts/2012/03/test-automation-10-sometimes-painful-lessons-learned/</link>
+      <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/03/test-automation-10-sometimes-painful-lessons-learned/</guid>
+      <description>Last Wednesday Michael Palotas and I have given together a presentation at the Swiss Testing Day 2012 in Zürich about the 10 (sometimes painful) Lessons we have learned in test automation and the presentation is about:
+eBay&amp;rsquo;s European quality engineering team has broad experience implementing end-to-end test automation in different software development environments (agile, waterfall, co located , outsourced, distributed). This presentation illustrates the key lessons learned from a technical and business perspective</description>
+    </item>
+    
+    <item>
+      <title>Greenhouse Application</title>
+      <link>http://dary.de/posts/2012/03/greenhouse-application/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/03/greenhouse-application/</guid>
+      <description>In my past blog entry I listed different Open Source Frameworks that can be used for mobile testing on Android and iOS. For showcasing the different frameworks, I will use the Open Source project Greenhouse that SpringSource has created some while ago to:
+Serve as a open-source, public-facing reference and driver for Spring technology, including Spring MVC, Security, Integration, and the new Spring Social and Mobile projects.
+For making the demonstration easier, I have forked the corresponding projects on Github and in the following lines you find all the details you need to follow to setup everything:</description>
+    </item>
+    
+    <item>
+      <title>Overview about Open Source mobile test automation Frameworks</title>
+      <link>http://dary.de/posts/2012/03/open-source-mobile-test-automation-frameworks/</link>
+      <pubDate>Sun, 11 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/03/open-source-mobile-test-automation-frameworks/</guid>
+      <description>The mobile market is changing. In the past a lot of mobile solutions has been created and a lot of them has been used to gather experience in the mobile field. Now more and more companies like car manufacturers or banks (PayPal, Barclays)are creating mobile solutions that really have an impact on their main business. If you look e.g. at eBay&amp;rsquo;s mobile facts, the numbers are just impressing:
+ 2011 there was a transation volumne of 5 billion USD worldwide 1 million Listings every weeks are done via mobile 176 Number of dollars spent every second through mobile purchases  From a test automation perspective, I&amp;rsquo;m looking into this area from a functional end-to-end testing perspective, there are different open source tools available to write automated tests for iOS and Android:</description>
+    </item>
+    
+    <item>
+      <title>Camholder</title>
+      <link>http://dary.de/posts/2012/03/camholder-0-2-1/</link>
+      <pubDate>Sat, 10 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/03/camholder-0-2-1/</guid>
+      <description>Via Twitter I found the camholder (http://camholder.org), which can be used to
+ &amp;hellip; present your mobile content right on your device – with all it&amp;rsquo;s sensors! The HD camera and the (optional) Mac Software are proven to work on stage for your best live performance.
+ So I ordered one and some days ago the Camholder was delivered and I&amp;rsquo;m really happy that I ordered one. I&amp;rsquo;m planning to use the CamHolder in presentation and as well during the day to day work because the team I&amp;rsquo;m part of is distributed around Europe.</description>
+    </item>
+    
+  </channel>
+</rss>

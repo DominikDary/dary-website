@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Testing on Dominik Dary&#39;s Blog</title>
+    <link>http://dary.de/categories/mobile-testing/</link>
+    <description>Recent content in Mobile Testing on Dominik Dary&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dary.de/categories/mobile-testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mobile App Testing Book Recommendation</title>
+      <link>http://dary.de/posts/2014/10/mobiletestingbook/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2014/10/mobiletestingbook/</guid>
+      <description>Yesterday Daniel Knott announced that he has published his book Hands-On Mobile App Testing.
+Daniel writes on his book page: &amp;ldquo;This book is aimed at anyone interested in mobile apps and mobile testing, ranging from junior to expert mobile testers who are already involved in mobile development teams. This book is also ideal for software test managers who need to manage mobile testing teams or to select a mobile test strategy.</description>
+    </item>
+    
+    <item>
+      <title>GDG Devfest in Zurich</title>
+      <link>http://dary.de/posts/2012/10/gdg-devfest-in-zurich/</link>
+      <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/10/gdg-devfest-in-zurich/</guid>
+      <description>Yesterday and today I attended the Google Developer Group (GDG) DevFest in Zürich and I really enjoyed it! I have seen good presentations, met really nice people and I had great discussions. This afternoon I did a presentation about how to automate native Android apps using Calabash-Driver and how to leverage an existing Selenium Grid2 architecture to allow scaling and parallel testing.
+Here you find my slides of today&amp;rsquo;s presentation:</description>
+    </item>
+    
+    <item>
+      <title>Calabash-Android</title>
+      <link>http://dary.de/posts/2012/04/calabash-android/</link>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/04/calabash-android/</guid>
+      <description>In my previous post I blogged about open source frameworks for mobile end-to-end testing and in the other past post I described about how to setup the Greenhouse sample app environment.
+In this post I would like to describe how to test an Android app with Calabash-Android, which was open sourced in the beginning of March.
+The basic architecture of Calabash is described in this figure, which I have taken from the Less Painful homepage:</description>
+    </item>
+    
+    <item>
+      <title>Camholder</title>
+      <link>http://dary.de/posts/2012/03/camholder-0-2-1/</link>
+      <pubDate>Sat, 10 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dary.de/posts/2012/03/camholder-0-2-1/</guid>
+      <description>Via Twitter I found the camholder (http://camholder.org), which can be used to
+ &amp;hellip; present your mobile content right on your device – with all it&amp;rsquo;s sensors! The HD camera and the (optional) Mac Software are proven to work on stage for your best live performance.
+ So I ordered one and some days ago the Camholder was delivered and I&amp;rsquo;m really happy that I ordered one. I&amp;rsquo;m planning to use the CamHolder in presentation and as well during the day to day work because the team I&amp;rsquo;m part of is distributed around Europe.</description>
+    </item>
+    
+  </channel>
+</rss>
