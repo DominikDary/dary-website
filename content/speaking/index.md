@@ -8,7 +8,7 @@ I enjoy speaking at conferences or meetups, and to anyone who’s interested in 
 
 **Upcoming conferences**:
 
-  * --
+  * Nothing planned yet. If you are interested, please talk to me!
 
 **Past conferences**:
 

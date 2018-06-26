@@ -1,12 +1,9 @@
 ---
-date: 2012-03-11
-layout: post
-title: Open Source Mobile Test Automation Frameworks
-categories:
-- mobile test automation
-styles: [data-table]
-toc: true
-draft: false
+date : 2012-03-11
+slug : "'2012/03/open-source-mobile-test-automation-frameworks"
+status : "publish"
+title : "Overview about Open Source mobile test automation Frameworks"
+Categories : ["mobile test automation","open source", "framework overview"]
 ---
 
 The mobile market is changing. In the past a lot of mobile solutions has been created and a lot of them has been used to gather experience in the mobile field.

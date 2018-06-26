@@ -1,14 +1,9 @@
 ---
-layout: post
-title: "Mobile WebDriver Selendroid"
-date: 2013-11-21
-categories:
-- mobile test automation
-- mobile webdriver
-- w3c
-- Android
-toc: true
-draft: false
+title : "Mobile webdriver Selendroid"
+date : 2013-11-21
+status : "publish"
+slug : "'2013/11/mobile-webdriver-selendroid"
+Categories : ["mobile test automation", "mobile webdriver", "w3c", "Android", "selendroid"]
 ---
 
 ![selendroid logo](http://selendroid.io/images/selendroid-logo.png)
@@ -19,7 +14,7 @@ In the last months I spent a lot of my time working on a new test automation fra
 Selendroid is an implementation of the [Selenium WebDriver JSON Wire protocol](http://code.google.com/p/selenium/wiki/JsonWireProtocol), which is about to become a [W3C Standard](http://www.w3.org/TR/webdriver/).
 
 
-###Main features of selendroid are:
+### Main features of selendroid are:
 
 * Full compatibility with the JSON Wire Protocol.
 * No modification of app under test required in order to automate it
@@ -34,7 +29,7 @@ Selendroid is an implementation of the [Selenium WebDriver JSON Wire protocol](h
 * Multiple Android target API support (10 to 19)
 * Built in [Inspector](http://selendroid.io/inspector.html) to simplify test case development.
 
-###In Action
+### In Action
 
 I order to keep that example as simple as possible, I have created a [small demo project](Github](https://github.com/selendroid/demoproject-selendroid) in which the [selendroid-test-app](https://github.com/selendroid/selendroid/tree/master/selendroid-test-app) is used, the app that we use to verify that selendroid itself works fine.
 

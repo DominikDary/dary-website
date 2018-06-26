@@ -1,11 +1,9 @@
 ---
-date: 2012-03-10
-layout: post
-title: Camholder-0.2.1
-categories:
-- mobile testing
-toc: true
-draft: false
+date : 2012-03-10
+slug : "'2012/03/camholder-0-2-1"
+status : "publish"
+title : "Camholder"
+Categories : ["mobile testing"]
 ---
 
 Via Twitter I found the camholder (http://camholder.org), which can be used to
@@ -16,7 +14,7 @@ Via Twitter I found the camholder (http://camholder.org), which can be used to
 
 So I ordered one and some days ago the Camholder was delivered and I'm really happy that I ordered one. I'm planning to use the CamHolder in presentation and as well during the day to day work because the team I'm part of is distributed around Europe.
 
-![Picture of the CamHolder.](http://db.tt/5eaIvYTQ)
+![Picture of the CamHolder.](/camholder.jpg)
 
 In this screencast is Heiko Behrens explaining the details about the CamHolder:
 <iframe src="http://player.vimeo.com/video/35568035" width="500" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

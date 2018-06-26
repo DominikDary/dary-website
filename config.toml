@@ -8,7 +8,7 @@ googleAnalytics = "UA-1537443-6"
 
 [permalinks]
 # Configures post URLs
-post = "/blog/:year-:month-:day-:title/"
+post = "/:year/:month/:title/"
 
 # Number of blog posts in each pagination page
 paginate = 6
@@ -81,19 +81,19 @@ paginate = 6
   # Remove or Set to false to use local fonts
   remoteFonts = false
 
-  navigationNewWindow = true
+  navigationNewWindow = false
 
   sidebarHeader = "About me"
 
   sidebarText = """![Image Dominik Dary](/dominikdary.jpg)
-  Engineering Manager @Adobe & creator of [selendroid.io](http://selendroid.io) and [S3Mock](https://github.com/adobe/S3Mock).
+  Engineering Manager @Mesosphere & creator of [selendroid.io](http://selendroid.io) and [S3Mock](https://github.com/adobe/S3Mock).
   This is my private blog.
   """
 
   sidebarMenuEnabled = false
   sidebarMenuHeader = "Collections"
 
-  tableOfContents = true
+  tableOfContents = false
 
   twitter = "https://twitter.com/dominikdary"
   github = "https://github.com/dominikdary/"

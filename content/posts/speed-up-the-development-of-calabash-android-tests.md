@@ -1,15 +1,12 @@
 ---
-layout: post
-title: "Speed up the Development of Calabash-Android Tests"
-date: 2012-07-14
-categories:
-- mobile test automation
-- calabash-android
-toc: true
-draft: false
+title : "Speed up the development of Calabash-Android tests"
+status : "publish"
+slug : "'2012/07/speed-up-the-development-of-calabash-android-tests"
+date : 2012-07-14
+Categories : ["mobile test automation", "calabash-android", "android"]
 ---
 
-In one of my [previous blog posts](http://dary.de/2012/04/calabash-android/) I described about how to use Calabash-Android in general.
+In one of my [previous blog posts](http://dary.de/posts/2012/04/calabash-android/) I described about how to use Calabash-Android in general.
 In today's post I'm describing about how to speed up the development of automated mobile tests using Calabash-Android using and mostly configuring the interactive Ruby shell (IRB).
 
 IRB is a shell allows the execution of Ruby commands with immediate response, experimenting in real-time. This is pretty useful if you are about to automate an Android application screen that is part of an flow and you are in the process of finding for the UI elements the right commands e.g. where sometimes it is easier to use find Elements by text and sometimes you can use the Android element names. Especially if you are using customized UI components, then sometimes this can be tricky.
@@ -23,7 +20,7 @@ Important are the files
 which can be found [here](https://github.com/calabash/calabash-android/tree/master/ruby-gem/features-skeleton).
 
 I started with this original templates and customized them:
-{% gist 3110764 %}
+{{< gist dominikdary 3110764 >}}
 
 In the file *.irbrc* the main change is in the last line, the command, to connect to the test server, which is running on the device / emulator.
 In the file *irb_android.sh* I added the command to start the Android instrumentation, which will start the calabash-android test server on the phone / emulator and as well the application under test (AUT).

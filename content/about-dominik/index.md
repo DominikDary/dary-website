@@ -4,9 +4,9 @@ title: "About Dominik"
 url: /about-dominik/
 type: page
 ---
-Dominik Dary works at Adobe Hamburg as Engineering Manager. He’s the creator of Selendroid and S3Mock. Dominik is a recognized expert in test engineering and test automation and has spoken at many conferences around the world.
+Dominik Dary works at [Mesosphere](https://twitter.com/mesosphere) as an Engineering Manager. He’s the creator of Selendroid and S3Mock. Dominik is a recognised expert in test engineering and test automation and has spoken at many conferences around the world.
 
-You can send me an email: ddary [aatt] acm [dot] org
+You can send me an email: ddary [aat] acm [dooot] org
 
 ## Publications:
 
@@ -14,7 +14,7 @@ You can send me an email: ddary [aatt] acm [dot] org
 
   * [Mobile Test Automation with Selendroid, Methods and Tools, September 2014](http://www.methodsandtools.com/tools/selendroid.php)
 
-  * [Article about functional GUI testing with the FEST framework; Testing Experience, November 2009](http://www.de.capgemini.com/insights/publikationen/functional-tests-with-the-fest-framework/?d=83EA4B43-C8EF-9431-E33B-2BFC5E3BA2DA)
+  * [Article about functional GUI testing with the FEST framework; Testing Experience, November 2009](https://de.slideshare.net/DominikDary/functional-tests-withthefestframework)
 
   * OSGi and Spring DM (German)
 
@@ -22,7 +22,16 @@ You can send me an email: ddary [aatt] acm [dot] org
 
 ### Presentations:
 
+* Selendroid in Action
+
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/3GD7l4B0hp88bC" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+* GTAC 2014: Selendroid - Selenium for Android
+
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/7tI3lKk27hFY6Q" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
 * Android Test Automation – one year later
+
     <iframe src="//www.slideshare.net/slideshow/embed_code/32911915" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 * Mobile WebDriver Selendroid
@@ -36,14 +45,11 @@ You can send me an email: ddary [aatt] acm [dot] org
 
     <iframe src="http://www.slideshare.net/slideshow/embed_code/14450364" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 
-
 * Agile Testing at eBay                   
 	<iframe src="http://www.slideshare.net/slideshow/embed_code/14327169" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 
-
 * InfoCamp 12 Keynote - Innovation in the fast lane with Open Source Tools
   <iframe src="http://www.slideshare.net/slideshow/embed_code/14202716" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
-
 
 * Implementing Test Automation in Agile Projects
   <iframe src="http://www.slideshare.net/slideshow/embed_code/12603292" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
@@ -56,6 +62,8 @@ You can send me an email: ddary [aatt] acm [dot] org
 
 
 ### Video of Presentations:
+
+  * [GTAC 2014: Selendroid - Selenium for Android](https://www.youtube.com/watch?v=gIPxxF4lhGo)
 
   * [Android Test Automation – one year later](https://www.youtube.com/watch?v=oxhqOYWulfU)
 

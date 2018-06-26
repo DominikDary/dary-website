@@ -1,14 +1,9 @@
 ---
-layout: post
-title: "Book: Hands-On Mobile App Testing"
-date: 2014-10-14
-categories:
-- mobile test automation
-- mobile testing
-- Android
-- iOS
-toc: true
-draft: false
+title : "Mobile App Testing Book Recommendation"
+date : 2014-10-14
+status : "publish"
+slug : "'2014/10/MobileTestingBook"
+Categories : ["mobile test automation", "mobile testing", "Android", "iOS"]
 ---
 
 Yesterday [Daniel Knott](http://www.adventuresinqa.com/) announced that he has published his book `Hands-On Mobile App Testing`.
