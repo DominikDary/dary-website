@@ -4,9 +4,9 @@ title: "About Dominik"
 url: /about-dominik/
 type: page
 ---
-Dominik Dary works at [Mesosphere](https://twitter.com/mesosphere) as an Engineering Manager. He’s the creator of Selendroid and S3Mock. Dominik is a recognised expert in test engineering and test automation and has spoken at many conferences around the world.
+Dominik Dary works at [D2iQ](https://d2iq.com) as an Engineering Manager. He’s the creator of Selendroid and S3Mock. Dominik is a recognised expert in test engineering and test automation and has spoken at many conferences around the world.
 
-You can send me an email: ddary [aat] acm [dooot] org
+You can send me an email: sales [aat] dary [dooot] de
 
 ## Publications:
 

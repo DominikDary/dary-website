@@ -86,7 +86,7 @@ paginate = 6
   sidebarHeader = "About me"
 
   sidebarText = """![Image Dominik Dary](/dominikdary.jpg)
-  Engineering Manager @Mesosphere & creator of [selendroid.io](http://selendroid.io) and [S3Mock](https://github.com/adobe/S3Mock).
+  Engineering Manager & creator of [selendroid.io](http://selendroid.io) and [S3Mock](https://github.com/adobe/S3Mock).
   This is my private blog.
   """
 
