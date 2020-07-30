@@ -45,11 +45,11 @@
   <meta name="author" content="Dominik Dary">
 
   
-  <meta name="generator" content="Hugo 0.42.1" />
+  <meta name="generator" content="Hugo 0.74.3" />
 
   
   
-<script>
+<script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -164,53 +164,35 @@ if (!doNotTrack) {
           
           
           <p>In my <a href="http://www.dary.de/posts/2012/03/open-source-mobile-test-automation-frameworks/">previous post </a>I blogged about open source frameworks for mobile end-to-end testing and in the other <a href="http://www.dary.de/posts/2012/03/greenhouse-application/">past post</a> I described about how to setup the Greenhouse sample app environment.</p>
-
 <p>In this post I would like to describe how to test an Android app with <a href="https://github.com/calabash/calabash-android">Calabash-Android</a>, which was <a href="http://blog.lesspainful.com/2012/03/07/Calabash/">open sourced</a> in the beginning of March.</p>
-
 <p>The basic architecture of Calabash is described in this figure, which I have taken from the Less Painful homepage:</p>
-
-<p><img src="/CalabashAndroidArchitecture.png" alt="Calabash-Android Architecture" /></p>
-
+<p><img src="/CalabashAndroidArchitecture.png" alt="Calabash-Android Architecture"></p>
 <p>From an architectural perspective there is a client, that it using Cucumber by default, that is sending command to a server, that is running on the device/emulator, and that is used to communicate with the application under test (AUT) using the <a href="http://code.google.com/p/robotium/">Robotium framework</a>. The communication between the client and the server is done using a socket connection sending Json commands. Going with this approach the AUT doesn&rsquo;t need to be modified (e.g. server to be added) because in the Android test project this remote server is added. Using the Robotium framework is a good choice, because it is the defacto standard for automated Android end-to-end testing. From my perspective adding this extra remote component makes sense, because in the real world you probably have to create before running the test some test data that you will use in your test. Without having this remote architecture you need to add all the helpers that are communicating with the test system (using various protocols) to you test apk.</p>
-
 <p>To get started to test the Greenhouse Android app, you need first to clone the <a href="https://github.com/calabash/calabash-android">Calabash-Android</a> project from Github:</p>
-
 <pre><code>git clone git://github.com/calabash/calabash-android.git
 git submodule init
 git submodule update
 </code></pre>
-
 <p>Now you need to compile the Greenhouse Android app using the &ldquo;<em>mvn clean install</em>&rdquo; command and copy the <em>greenhouse.apk</em> file from the target folder into the base folder of the Calabash Android project. If you would like to run the Greenhouse app on a device, you need to modify the the property <em>base.url</em> in the file <a href="https://github.com/DominikDary/greenhouse-android/blob/master/filters/dev.properties">dev.properties</a> to the IP where your Greenhouse server app is running.</p>
-
 <p>To configure Calabash please update the <em>build.properties</em> file like this:</p>
-
 <pre><code>tested.package_name=com.springsource.greenhouse
 tested.main_activity=com.springsource.greenhouse.MainActivity
 tested.project.apk=greenhouse.apk
 </code></pre>
-
 <p>Now you can execute the tests on an emulator (please make sure this is started before) running the command:</p>
-
 <pre><code>ant clean test
 </code></pre>
-
-<p>All details about this setup you find as well in the first screencast:
-<iframe src="http://player.vimeo.com/video/40001570" width="500" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
-
+<p>All details about this setup you find as well in the first screencast:</p>
+<!-- raw HTML omitted -->
 <p>Writing tests is pretty simple, there are <a href="https://github.com/DominikDary/greenhouse-android-calabash/blob/master/features/step_definitions/canned_steps.md">predefined steps</a>.</p>
-
 <p>My added steps can be found in the <a href="https://github.com/DominikDary/greenhouse-android-calabash/blob/master/features/step_definitions/ddary_steps.rb">ddary_steps.rb</a> file. The interesting part about the test is, that the first part of the test is testing a webview (authorization of the app) and the second part is using Android native UI elements. The elements in the webview are identified using css locators.</p>
-
-<p>All details about the test execution can be found in the second part of the screencast:
-<iframe src="http://player.vimeo.com/video/40029918" width="500" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
-
+<p>All details about the test execution can be found in the second part of the screencast:</p>
+<!-- raw HTML omitted -->
 <p>Adding new command to <em>Calabash-android</em> is pretty easy. All commands, that you can use in your Ruby code, are mapped to Actions:</p>
-
 <pre><code>sh.calaba.instrumentationbackend.actions
 </code></pre>
-
-<p>The command _press_button_with<em>text</em> is implemented in the class <em>PressButtonText</em>. The method <em>key()</em> is used for mapping the class to the command name and the <em>execute(..)</em> method is used to talk to the <em>Robotium solo</em> object. New written actions are only available if they are located in this package:
-    sh.calaba.instrumentationbackend.actions</p>
+<p>The command <em>press_button_with_text</em> is implemented in the class <em>PressButtonText</em>. The method <em>key()</em> is used for mapping the class to the command name and the <em>execute(..)</em> method is used to talk to the <em>Robotium solo</em> object. New written actions are only available if they are located in this package:
+sh.calaba.instrumentationbackend.actions</p>
 
         </div>
         
@@ -235,9 +217,9 @@ tested.project.apk=greenhouse.apk
 
     <p>
       
-        <img src="/dominikdary.jpg" alt="Image Dominik Dary" />
-  Engineering Manager @Mesosphere &amp; creator of <a href="http://selendroid.io">selendroid.io</a> and <a href="https://github.com/adobe/S3Mock">S3Mock</a>.
-  This is my private blog.
+        <img src="/dominikdary.jpg" alt="Image Dominik Dary">
+Engineering Manager &amp; creator of <a href="http://selendroid.io">selendroid.io</a> and <a href="https://github.com/adobe/S3Mock">S3Mock</a>.
+This is my private blog.
       
     </p>
   </section>
@@ -280,7 +262,7 @@ tested.project.apk=greenhouse.apk
 </div>
 
 <footer role="contentinfo">
-  <p>Copyright &copy; 2018 Dominik Dary - <a href="http://dary.de/license/">License</a> -
+  <p>Copyright &copy; 2020 Dominik Dary - <a href="http://dary.de/license/">License</a> -
   <span class="credit">Powered by <a target="_blank" href="https://gohugo.io">Hugo</a> and <a target="_blank" href="https://github.com/parsiya/hugo-octopress/">Hugo-Octopress</a> theme.
 </p>
 

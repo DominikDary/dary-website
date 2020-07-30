@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dominik Dary&#39;s Blog</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Dominik Dary&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://dary.de/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,10 +17,10 @@
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://dary.de/about-dominik/</guid>
-      <description>Dominik Dary works at Mesosphere as an Engineering Manager. He’s the creator of Selendroid and S3Mock. Dominik is a recognised expert in test engineering and test automation and has spoken at many conferences around the world.
-You can send me an email: ddary [aat] acm [dooot] org
-Publications: Articles:  Mobile Test Automation with Selendroid, Methods and Tools, September 2014
- Article about functional GUI testing with the FEST framework; Testing Experience, November 2009</description>
+      <description>Dominik Dary works at D2iQ as an Engineering Manager. He’s the creator of Selendroid and S3Mock. Dominik is a recognised expert in test engineering and test automation and has spoken at many conferences around the world.
+You can send me an email: sales [aat] dary [dooot] de
+Publications: Articles:   Mobile Test Automation with Selendroid, Methods and Tools, September 2014
+  Article about functional GUI testing with the FEST framework; Testing Experience, November 2009</description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@ Publications: Articles:  Mobile Test Automation with Selendroid, Methods and Too
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://dary.de/disclaimer/</guid>
-      <description>The opinions expressed on this blog are the opinion of Dominik Dary, and do not represent the opinion of Mesosphere or any former employer.
+      <description>The opinions expressed on this blog are the opinion of Dominik Dary, and do not represent the opinion of D2iQ or any former employer.
 The opinions expressed by those who write comments are theirs alone, and do not reflect the opinions of Dominik or any current or former employer.
 All data and information provided on this site is for informational purposes only. Dominik makes no representations as to accuracy, completeness, currentness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use.</description>
     </item>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Source on Dominik Dary&#39;s Blog</title>
+    <title>open source on Dominik Dary&#39;s Blog</title>
     <link>http://dary.de/categories/open-source/</link>
-    <description>Recent content in Open Source on Dominik Dary&#39;s Blog</description>
+    <description>Recent content in open source on Dominik Dary&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Mar 2012 00:00:00 +0000</lastBuildDate>
