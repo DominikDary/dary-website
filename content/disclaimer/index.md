@@ -1,10 +1,10 @@
 ---
-date: 2018-06-22
+date: 2023-03-25
 title: "Disclaimer"
 url: /disclaimer/
 type: page
 ---
-The opinions expressed on this blog are the opinion of Dominik Dary, and do not represent the opinion of D2iQ or any former employer.
+The opinions expressed on this blog are the opinion of Dominik Dary, and do not represent the opinion of Salesforce or any former employer.
 
 The opinions expressed by those who write comments are theirs alone, and do not reflect the opinions of Dominik or any current or former employer.
 

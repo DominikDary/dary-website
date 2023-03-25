@@ -1,10 +1,16 @@
 ---
-date: 2018-06-22
+date: 2023-03-25
 title: "About Dominik"
 url: /about-dominik/
 type: page
 ---
-Dominik Dary works at [D2iQ](https://d2iq.com) as an Engineering Manager. He’s the creator of Selendroid and S3Mock. Dominik is a recognised expert in test engineering and test automation and has spoken at many conferences around the world.
+Dominik Dary works at [Salesforce](https://salesforce.com) as an Engineering Manager. 
+
+He is passionate about solving challenges combining the technical and human aspects to delight the customers with high quality products. By creating (test) strategies, processes, tools and organizations to provide fast feedback which enables organizations to quickly adapt and change the product. Fostering a culture of respect, collaboration, empowerment, and innovation is majorly important to him.
+
+He has a strong passion for Test and Automation engineering and am a polyglot programmer who loves to code in Java and Python.
+
+He’s the creator of Selendroid and S3Mock. Dominik is a recognised expert in test engineering and test automation and has spoken at many conferences around the world.
 
 You can send me an email: sales [aat] dary [dooot] de
 

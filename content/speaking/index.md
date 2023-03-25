@@ -1,11 +1,11 @@
 ---
-date: 2018-06-22
+date: 2023-03-25
 title: "Speaking"
 url: /speaking/
 type: page
 ---
 
-I enjoy speaking at conferences or meetups, and to anyone who’s interested in cloud platforms engineering management, selendroid, quality engineering or mobile testing.
+I enjoy speaking at conferences or meetups, and to anyone who’s interested in quality intelligence, quality engineering, testing strategies and creating cultures of innovation.
 
 **Upcoming conferences**:
 

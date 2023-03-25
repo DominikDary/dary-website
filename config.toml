@@ -1,4 +1,4 @@
-baseURL = "http://dary.de/"
+baseURL = "https://dary.de/"
 languageCode = "en-us"
 title = "Dominik Dary's Blog"
 theme = "octopress"
