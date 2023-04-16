@@ -4,17 +4,22 @@
 <div id="main">
   <div id="content">
     <div class="blog-index">
+      <h1>Latest Posts</h1>
+      {{ range ( where .Site.RegularPages "Type" "posts" | first 5 ) }}
       <article class="hentry" role="article">
-      <h2>Overview about my latest content:</h2>
-      {{ range .Data.Pages.GroupByDate "2006-01" }}
-      <h4>{{ .Key }}</h4>
-      <ul>
-          {{ range .Pages }}
-          <li> <a href="{{ .Permalink }}">{{ .Title }}</a> </li>
-          {{ end }}
-      </ul>
-      {{ end }}
-    </article>
+        <header>
+          <p class="meta">
+            <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+          </p>
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        </header>
+        <div class="entry">
+          {{ .Summary }}
+        </div>
+      </article>
+      {{end}}
+      <hr>
+      </article>
     </div>
     {{ partial "sidebar.html" . }}
   </div>

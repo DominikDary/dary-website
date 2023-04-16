@@ -3,17 +3,19 @@
 {{ partial "header.html" . }}
 
 <style>
-table.allposts, td.allposts-date, td.allposts-title {
-  border:none;
-}
+  table.allposts,
+  td.allposts-date,
+  td.allposts-title {
+    border: none;
+  }
 
-td.allposts-date {
+  td.allposts-date {
     padding: 0 10px 0 0;
-}
+  }
 
-td.allposts-title {
+  td.allposts-title {
     font-size: 110%;
-}
+  }
 </style>
 
 <div id="main">
@@ -26,16 +28,23 @@ td.allposts-title {
           </h2>
           {{ .Params.snippet }}
         </header>
-        <table class="allposts">
-          {{ range .Data.Pages }}
-              <tr>
-                <!-- <td class="allposts-date"><strong>{{ .Date | dateFormat "2006"}} {{ .Date | dateFormat "Jan" }} {{ .Date | dateFormat "2" }}</strong></td> -->
-                <td class="allposts-title"><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></td>
-                <td class="allposts-title">{{ with .Params.snippet }}{{ . | markdownify }}{{ end }}</td>
-              </tr>
-          {{ end }}
-        </table>
+
+        {{ range .Data.Pages }}
+        <article class="hentry" role="article">
+          <header>
+            <p class="meta">
+              <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            </p>
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          </header>
+          <div class="entry">
+            {{ .Summary }}
+          </div>
+        </article>
+        {{end}}
+        <hr>
       </article>
+
     </div>
     {{ partial "sidebar.html" . }}
   </div>

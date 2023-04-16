@@ -15,9 +15,9 @@ paginate = 6
 
 # Make tags and categories work
 # As of Hugo v0.33 these are not needed anymore
-# [indexes]
-#   tag = "tags"
-#   category = "categories"
+ [indexes]
+   tag = "tags"
+   category = "categories"
 
 [[menu.main]]
   name = "About Dominik"
@@ -43,7 +43,7 @@ paginate = 6
   author = "Dominik Dary"
 
   # This text appears in site header under website title
-  #subtitle = ""
+  #subtitle = "Personal blog about quality & software engineering"
 
   # Search engine URL
   searchEngineURL = "https://www.google.com/search"
@@ -67,10 +67,10 @@ paginate = 6
   textrss = false
 
   # Website's default description
-  defaultDescription = "Dominik Dary's personal website"
+  defaultDescription = "Dominik Dary's Blog"
 
   # Populate this with your own search keywords - these will appear in meta tags
-  # defaultKeywords = ["keyword1" , "keyword2" , "keyword3" , "keyword4"]
+  defaultKeywords = ["software analytics","engineering leadership","innovation","conferences","test automation"]
 
   # Set to true to hide ReadingTime on posts
   disableReadingTime = false
@@ -83,11 +83,12 @@ paginate = 6
 
   navigationNewWindow = false
 
-  sidebarHeader = "About me"
+  sidebarHeader = "About Dominik"
 
   sidebarText = """![Image Dominik Dary](/dominikdary.jpg)
-  Engineering Manager & creator of [selendroid.io](http://selendroid.io) and [S3Mock](https://github.com/adobe/S3Mock).
-  This is my private blog.
+  Dominik is a customer-focused and hands-on engineering leader with a passion for creating effective testing strategies and processes to rapidly adapt and change products. 
+  
+  He values a culture of collaboration, respect, empowerment, and innovation and he has a strong passion for software engineering and is a polyglot programmer who loves to code in Java and Python.
   """
 
   sidebarMenuEnabled = false
