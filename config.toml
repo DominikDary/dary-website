@@ -2,6 +2,7 @@ baseURL = "https://dary.de/"
 languageCode = "en-us"
 title = "Dominik Dary's Blog"
 theme = "octopress"
+#theme = "tranquilpeak"
 sectionPagesMenu = "main"
 googleAnalytics = "G-F5M2JBWER4"
 
@@ -85,12 +86,12 @@ paginate = 6
 
   sidebarHeader = "About Dominik"
 
-  sidebarText = """![Image Dominik Dary](/dominikdary.jpg)
+  sidebarText = """![Image Dominik Dary](/ddary.jpg)
   Dominik is a customer-focused and hands-on engineering leader with a passion for creating effective testing strategies and processes to rapidly adapt and change products. 
   
   He values a culture of collaboration, respect, empowerment, and innovation and he has a strong passion for software engineering and is a polyglot programmer who loves to code in Java and Python.
   """
-
+  
   sidebarMenuEnabled = false
   sidebarMenuHeader = "Collections"
 
