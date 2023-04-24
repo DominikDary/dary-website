@@ -21,7 +21,7 @@ Recently I listened to the Neuland podcast [Artificial Intelligence - A Question
 "Explainable AI" is the name of the concept and can be achieved, for example, by marking the relevant data in the input (heat map), which is also relevant for testing AI-based systems.
 
 
-#### Risk Basesd Testing
+#### Risk Based Testing
 In this [blog post](https://www.methodsandtools.com/archive/archive.php?id=31), Hans Schaefer discusses the concept of risk-based testing and its different aspects. The post begins by explaining the importance of risk-based testing in ensuring the quality of software and reducing costs associated with testing. The author then goes on to explain the different stages of risk-based testing, including risk identification, risk analysis, risk evaluation, and risk mitigation.
 The author also explains the importance of involving stakeholders in the risk-based testing process and how this can help ensure that the software meets the needs of its intended users.
 
@@ -40,4 +40,4 @@ QA methodologies will need to adapt to the new landscape, and QA professionals m
 
 #### ChatGPT Local Machine
 
-In his blog post, [Martin Nilsson](https://twitter.com/MartinNilsson8) shares his experience of [running ChatGPT-style LLM on a local machine for sensitive data](https://medium.com/@houseoftest/running-chatgpt-style-llm-on-a-local-machine-for-sensitive-data-d6912703974). He discusses the benefits and challenges of this approach and provides a step-by-step guide on how to set it up. The post is informative and practical, providing useful insights for anyone interested in using ChatGPT-style LLM on a local machine for softeware testing.
+In his blog post, [Martin Nilsson](https://twitter.com/MartinNilsson8) shares his experience of [running ChatGPT-style LLM on a local machine for sensitive data](https://medium.com/@houseoftest/running-chatgpt-style-llm-on-a-local-machine-for-sensitive-data-d6912703974). He discusses the benefits and challenges of this approach and provides a step-by-step guide on how to set it up. The post is informative and practical, providing useful insights for anyone interested in using ChatGPT-style LLM on a local machine for software testing.
